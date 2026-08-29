@@ -1,5 +1,4 @@
 {
-  "username": "Ahad-Muhib",
   "widgets": [
     {
       "widgetId": "surveillance-header",
@@ -106,6 +105,5 @@
     "templateStyle": "rugbedbugg",
     "transparentBackground": true
   },
-  "templateId": "rugbedbugg",
-  "profileSlug": "default"
+  "templateId": "rugbedbugg"
 }
