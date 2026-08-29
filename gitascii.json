@@ -1,4 +1,5 @@
 {
+  "username": "Ahad-Muhib",
   "widgets": [
     {
       "widgetId": "surveillance-header",
@@ -13,18 +14,12 @@
       },
       "config": {
         "accentColor": "#55ffff",
-        "customTitle": "Surveillance Header",
-        "secondaryColor": "#c084fc",
-        "ledColor": "#ff5555",
-        "quoteText": "“I don't know what I am doing.”",
-        "animationType": "glitch",
-        "animationPreviewKey": 5,
-        "modeTag": "198X MODE"
+        "customTitle": "Surveillance Header"
       },
       "locked": false,
       "visible": true,
       "zIndex": 1,
-      "instanceId": "widget_1788017671280_0"
+      "instanceId": "widget_1788018308149_0"
     },
     {
       "widgetId": "surveillance-telemetry",
@@ -39,13 +34,12 @@
       },
       "config": {
         "accentColor": "#55ffff",
-        "customTitle": "Terminal Telemetry",
-        "hideBorder": true
+        "customTitle": "Terminal Telemetry"
       },
       "locked": false,
       "visible": true,
       "zIndex": 2,
-      "instanceId": "widget_1788017671280_1"
+      "instanceId": "widget_1788018308149_1"
     },
     {
       "widgetId": "surveillance-feeds",
@@ -60,17 +54,12 @@
       },
       "config": {
         "accentColor": "#55ffff",
-        "customTitle": "Surveillance Social Feeds",
-        "renderMode": "grid",
-        "selectedFeed": "linkedin",
-        "lockAspectRatio": false,
-        "hideDecorations": false,
-        "hideBorder": false
+        "customTitle": "Surveillance Social Feeds"
       },
       "locked": false,
       "visible": true,
       "zIndex": 3,
-      "instanceId": "widget_1788017671280_2"
+      "instanceId": "widget_1788018308149_2"
     },
     {
       "widgetId": "surveillance-loadout",
@@ -90,7 +79,7 @@
       "locked": false,
       "visible": true,
       "zIndex": 4,
-      "instanceId": "widget_1788017671280_3"
+      "instanceId": "widget_1788018308149_3"
     }
   ],
   "globalStyles": {
@@ -102,8 +91,8 @@
     "borderRadius": 0,
     "padding": 24,
     "themeMode": "dark",
-    "templateStyle": "rugbedbugg",
-    "transparentBackground": true
+    "templateStyle": "rugbedbugg"
   },
-  "templateId": "rugbedbugg"
+  "templateId": "rugbedbugg",
+  "profileSlug": "default"
 }
