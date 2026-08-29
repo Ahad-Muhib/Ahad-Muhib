@@ -14,7 +14,8 @@
       },
       "config": {
         "accentColor": "#55ffff",
-        "customTitle": "Surveillance Header"
+        "customTitle": "Surveillance Header",
+        "quoteText": "“I have no idea what I'm doing”"
       },
       "locked": false,
       "visible": true,
